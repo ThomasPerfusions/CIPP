@@ -27,4 +27,4 @@ jobs:
           app-name: 'cipp3docid'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FCD106D699C54CC09010B221337ED144 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EEA92AE1729D4E399A675BF3755FC4C8 }}
